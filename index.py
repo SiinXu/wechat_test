@@ -1,5 +1,8 @@
 import werobot
 import openai
+import sys
+
+print(sys.path)
 
 openai.api_key = "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"
 
